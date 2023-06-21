@@ -1,0 +1,5 @@
+/clear
+/give @p concrete 64 7
+/give @p concrete 64 16
+/give @p concrete 64 0
+/give @p concrete 64 4

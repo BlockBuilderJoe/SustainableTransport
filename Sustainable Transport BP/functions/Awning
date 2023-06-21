@@ -1,0 +1,7 @@
+clear
+/give @p mangrove_stairs 64
+/give @p mangrove_slab 64
+/give @p birch_stairs 64
+/give @p birch_slab 64
+/give @p birch_fence 64
+/give @p dirt 64
