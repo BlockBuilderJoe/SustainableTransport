@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:fme="http://www.safe.com/gml/fme" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" targetNamespace="http://www.safe.com/gml/fme" elementFormDefault="qualified">
 <import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
-<element name="Battersea" type="fme:BatterseaType" substitutionGroup="gml:_Feature"/>
-<complexType name="BatterseaType">
+<element name="Kidwelly" type="fme:KidwellyType" substitutionGroup="gml:_Feature"/>
+<complexType name="KidwellyType">
 <complexContent>
 <extension base="gml:AbstractFeatureType">
 <sequence>
